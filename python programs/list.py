@@ -1,4 +1,4 @@
- def print_common_numbers(list1, list2):
+def print_common_numbers(list1, list2):
     # Convert lists to sets
     set1 = set(list1)
     set2 = set(list2)
