@@ -35,7 +35,16 @@ for i in range(len(check_boxes)):
     check_boxes[i].click()
 driver.implicitly_wait(10)
 
+<<<<<<< HEAD
 if check_boxes. is_selected():
     print("Test passed")
 else:
     print("Test failed")
+=======
+if check_boxes.is_selected():
+    print("Test passed")
+else:
+    print("Test failed")
+
+
+>>>>>>> origin/master
