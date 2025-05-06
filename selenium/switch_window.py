@@ -16,7 +16,5 @@ for window in windows:
         break
 driver.switch_to.window(parent_window)
 driver.close() 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
+

@@ -1,4 +1,9 @@
-string = "shanmukha rao"
-substring = "rao"
+string = "python automation testing"
+substring = "teswt"
+
 if substring in string:
-    print("sub string found")
+    print("present")
+else:
+    print("not present")
+
+

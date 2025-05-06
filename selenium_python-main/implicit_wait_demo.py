@@ -16,5 +16,5 @@ class ImplicitWaitDemo():
         emailField = driver.find_element(By.ID, "user_email")
         emailField.send_keys("test")
 
-ff = ImplicitWaitDemo()
+ff = ImplicitWaitDemo(),
 ff.test()

@@ -6,11 +6,21 @@
 
 # NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
 
-import numpy as np
+import  numpy as np
 
-arr = np.array([1,2,4,7,15,22,55,32])
+arr = np.array([1,3,56,76,99,36])
 print(arr)
-print(type(arr))
 
+"""
+Array Operations
+Vectorized computations (no loops!)
+"""
+print(arr +5)
 
+#3. Array Slicing and Indexing
 
+print(arr[::-1])
+
+#Random Number Generation
+
+print(np.random.randint(1,100,size = 5))
