@@ -1,0 +1,33 @@
+{
+    "Brand_Name": {
+        "Manufacturer Brand Name": "Brand Name",
+        "Product Name": " Name",
+        "Model Number": " Number",
+        "PRX Information": "PRX Information",
+        "Qi-ID": "Qi-ID",
+        "Serial Number": "Qi-ID",
+        "Test Lab Information": "Test Lab Information",
+        "Lab Name": "Lab Name",
+        "Lab Location": "Lab Location",
+        "Lab Manager": "Lab Manager",
+        "Test Engineer": "Test Engineer",
+        "Email": "vasudev@gmail.com",
+        "Phone Number": 9985858585,
+        "Notes/Remarks": "Notes/Remarks"
+    },
+    "Xpaths": {
+        "Manufacturer_Xpath": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[2]/td[2]/input[1]",
+        "Product": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[3]/td[2]/input[1]",
+        "Model Number": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[4]/td[2]/input[1]",
+        "Qi-ID": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[5]/td[2]/input[1]",
+        "Serial Number": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[6]/td[2]/input[1]",
+        "Test Lab Information": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[7]/td[2]/input[1]",
+        "Lab Name": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[8]/td[2]/input[1]",
+        "Lab Location": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[9]/td[2]/input[1]",
+        "Lab Manager": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[10]/td[2]/input[1]",
+        "Test Engineer": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[11]/td[2]/input[1]",
+        "Email": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[12]/td[2]/input[1]",
+        "Phone Number": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[13]/td[2]/input[1]",
+        "Notes/Remarks": "//table[@class='borderLightGray table table-striped table-hover']/tbody[1]/tr[14]/td[2]/input[1]"
+    }
+}

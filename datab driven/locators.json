@@ -1,0 +1,16 @@
+{
+  "login_page": {
+    "username_field": "/input[@name='username']",
+    "password_field": "/input[@name='username']"
+
+  },
+
+  "Registration_page":{
+    "welcomeText": "//h1[contains(text(), 'Welcome')]"
+  },
+  "payment_gateway": {
+
+  },
+  "iffjigjhhn":"fuhjgbkhgiuhjiut-"
+
+}
