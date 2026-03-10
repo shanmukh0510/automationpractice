@@ -1,1 +1,0 @@
-print("hey shan this my first folder project file")
